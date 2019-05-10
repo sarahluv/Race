@@ -7,6 +7,17 @@ Purpose: Main driver of the GUI; creates the GUI
 *******************************************************************************
 */
 
+/*------------------------------------------------------------------------------
+    FEEDBACK FROM INSTRUCTOR:
+    
+    INHERITANCE - Make sure you validate the new parameters for the child 
+    constructors.  Make sure the bugs do not back off the board (row < 0).  
+    That is why you were getting run time errors. The remaining 
+    portions are very good.
+
+    POLYMORPHISM - Nice illustration of polymorphism when you move the bugs.
+------------------------------------------------------------------------------*/
+
 import javax.swing.*;
 
 public class BugsDriver
